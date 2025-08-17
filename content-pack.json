@@ -1,6 +1,6 @@
 {
   "Format": "2.0.0",
-  "Name": "Mineral Town (Custom Companions component)",
+  "Name": "Mineral Town TH (Custom Companions component)",
   "Author": "Rexstrife20",
   "Version": "1.0.7",
   "Description": "Custom Companions pack for Mineral Town.",
@@ -8,4 +8,5 @@
   "UpdateKeys": [
     "Nexus:-1"
   ]
+
 }

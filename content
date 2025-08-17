@@ -1,0 +1,855 @@
+{
+  "ForageSpawnEnabled": true,
+  "LargeObjectSpawnEnabled": true,
+  "OreSpawnEnabled": false,
+  "MonsterSpawnEnabled": true,
+  "Forage_Spawn_Settings": {
+    "Areas": [
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          16,
+          20,
+          22,
+          18
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          "Rexstrife20.MineralTownCP_Green_Grass",
+          396,
+          398,
+          402
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          "Rexstrife20.MineralTownCP_Green_Grass",
+          281,
+          406,
+          410,
+          420,
+          408
+        ],
+        "WinterItemIndex": [
+          "Rexstrife20.MineralTownCP_Black_Grass",
+          "Rexstrife20.MineralTownCP_White_Grass",
+          283,
+          412,
+          418
+        ],
+        "UniqueAreaID": "Sprite Forest South",
+        "MapName": "Rexstrife20.MineralTownCP_WoodCutter",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 3,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [
+          "30,14/38,21",
+          "48,0/52,5",
+          "52,24/9,24",
+          "0,13/4,31"
+        ],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Bamboo_Shoot",
+          16,
+          20,
+          22,
+          18
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          396,
+          398,
+          402
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          281,
+          406,
+          410,
+          420,
+          408
+        ],
+        "WinterItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Grass",
+          "Rexstrife20.MineralTownCP_Black_Grass",
+          283,
+          412,
+          418
+        ],
+        "UniqueAreaID": "Goddess Hill",
+        "MapName": "Rexstrife20.MineralTownCP_GoddessHill",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 4,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [
+          "43,19/36,22"
+        ],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Bamboo_Shoot",
+          "Rexstrife20.MineralTownCP_Moondrop",
+          "Rexstrife20.MineralTownCP_Toy_Flower",
+          16,
+          20,
+          22,
+          18
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_Green_Grass",
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          "Rexstrife20.MineralTownCP_Harvest_Pink_Cat",
+          396,
+          398,
+          402
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          "Rexstrife20.MineralTownCP_Green_Grass",
+          "Rexstrife20.MineralTownCP_Blue_Magic_Grass",
+          "Rexstrife20.MineralTownCP_Red_Magic_Grass",
+          "Rexstrife20.MineralTownCP_Harvest_Matsutake",
+          "Rexstrife20.MineralTownCP_Poisonous_Mushroom",
+          281,
+          406,
+          410,
+          420,
+          408
+        ],
+        "WinterItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Grass",
+          "Rexstrife20.MineralTownCP_Black_Grass",
+          283,
+          412,
+          418
+        ],
+        "UniqueAreaID": "Kappa Lake",
+        "MapName": "Rexstrife20.MineralTownCP_MountainLake",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 4,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Moondrop",
+          "Rexstrife20.MineralTownCP_Toy_Flower",
+          16,
+          20,
+          22,
+          18
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_Green_Grass",
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          "Rexstrife20.MineralTownCP_Harvest_Pink_Cat",
+          396,
+          398,
+          402
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          "Rexstrife20.MineralTownCP_Green_Grass",
+          "Rexstrife20.MineralTownCP_Blue_Magic_Grass",
+          "Rexstrife20.MineralTownCP_Red_Magic_Grass",
+          281,
+          406,
+          410,
+          420,
+          408
+        ],
+        "WinterItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Grass",
+          283,
+          412,
+          418
+        ],
+        "UniqueAreaID": "Flower Hill",
+        "MapName": "Rexstrife20.MineralTownCP_FlowerHill",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 4,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Moondrop",
+          "Rexstrife20.MineralTownCP_Toy_Flower",
+          16,
+          20,
+          22,
+          18
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_Green_Grass",
+          "Rexstrife20.MineralTownCP_Blue_Grass",
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          "Rexstrife20.MineralTownCP_Harvest_Pink_Cat",
+          396,
+          398,
+          402
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Red_Grass",
+          "Rexstrife20.MineralTownCP_Green_Grass",
+          "Rexstrife20.MineralTownCP_Blue_Magic_Grass",
+          "Rexstrife20.MineralTownCP_Red_Magic_Grass",
+          281,
+          406,
+          410,
+          420,
+          408
+        ],
+        "WinterItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Grass",
+          283,
+          412,
+          418
+        ],
+        "UniqueAreaID": "Flower Hill Summit",
+        "MapName": "Rexstrife20.MineralTownCP_Summit",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 4,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Flower"
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Flower"
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Flower"
+        ],
+        "WinterItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Flower"
+        ],
+        "UniqueAreaID": "Summit White Flower",
+        "MapName": "Rexstrife20.MineralTownCP_Summit",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 1,
+        "IncludeTerrainTypes": [],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [
+          "19,16/19,16"
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 2150,
+          "EndTime": 2500,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [
+            "Summer"
+          ],
+          "Days": [],
+          "WeatherYesterday": [
+            "Rain"
+          ],
+          "WeatherToday": [
+            "Wind"
+          ],
+          "WeatherTomorrow": [
+            "Sun"
+          ],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_Orange_Grass",
+          "Rexstrife20.MineralTownCP_Yellow_Grass",
+          372,
+          723
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_Purple_Grass",
+          372,
+          723
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Indigo_Grass",
+          372,
+          723
+        ],
+        "WinterItemIndex": [
+          372,
+          723
+        ],
+        "UniqueAreaID": "Mineral Beach",
+        "MapName": "Rexstrife20.MineralTownCP_MineralBeach",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 4,
+        "IncludeTerrainTypes": [
+          "Dirt"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [
+          "0,15/8,21"
+        ],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_Orange_Grass",
+          "Rexstrife20.MineralTownCP_Yellow_Grass",
+          393,
+          397
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_Purple_Grass",
+          393,
+          397
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Indigo_Grass",
+          393,
+          397
+        ],
+        "WinterItemIndex": [
+          393,
+          397
+        ],
+        "UniqueAreaID": "Mineral TidePool",
+        "MapName": "Rexstrife20.MineralTownCP_TidePool",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 4,
+        "IncludeTerrainTypes": [
+          "Dirt"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": [
+          "Rexstrife20.MineralTownCP_Moondrop",
+          "Rexstrife20.MineralTownCP_Toy_Flower",
+          16,
+          20,
+          22,
+          18
+        ],
+        "SummerItemIndex": [
+          "Rexstrife20.MineralTownCP_Harvest_Pink_Cat",
+          396,
+          398,
+          402
+        ],
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Blue_Magic_Grass",
+          "Rexstrife20.MineralTownCP_Red_Magic_Grass",
+          281,
+          406,
+          410,
+          420,
+          408
+        ],
+        "WinterItemIndex": [
+          "Rexstrife20.MineralTownCP_White_Grass",
+          283,
+          412,
+          418
+        ],
+        "UniqueAreaID": "Tree Forage",
+        "MapName": "Rexstrife20.MineralTownCP_TownCenter",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 4,
+        "IncludeTerrainTypes": [],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [
+          "115,68/146,90"
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "SpringItemIndex": null,
+        "SummerItemIndex": null,
+        "FallItemIndex": [
+          "Rexstrife20.MineralTownCP_Harvest_Matsutake",
+          "Rexstrife20.MineralTownCP_Poisonous_Mushroom"
+        ],
+        "WinterItemIndex": [
+          "White Flower"
+        ],
+        "UniqueAreaID": "Church Graveyard",
+        "MapName": "Rexstrife20.MineralTownCP_TownCenter",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 2,
+        "IncludeTerrainTypes": [],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [
+          "13,10/30,16",
+          "16,16/18,37"
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [
+            "Rain"
+          ],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 2
+      },
+      {
+        "SpringItemIndex": [
+          169
+        ],
+        "SummerItemIndex": [
+          169
+        ],
+        "FallItemIndex": [
+          169
+        ],
+        "WinterItemIndex": [
+          169
+        ],
+        "UniqueAreaID": "Mineral Town Beach Driftwood Spawns",
+        "MapName": "Rexstrife20.MineralTownCP_MineralBeach",
+        "MinimumSpawnsPerDay": 0,
+        "MaximumSpawnsPerDay": 3,
+        "IncludeTerrainTypes": [
+          "All"
+        ],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [
+            "Rain",
+            "Storm"
+          ],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      }
+    ],
+    "PercentExtraSpawnsPerForagingLevel": 0,
+    "SpringItemIndex": [],
+    "SummerItemIndex": [],
+    "FallItemIndex": [],
+    "WinterItemIndex": [],
+    "CustomTileIndex": []
+  },
+  "Large_Object_Spawn_Settings": {
+    "Areas": [
+      {
+        "ObjectTypes": [
+          "Stump"
+        ],
+        "FindExistingObjectLocations": false,
+        "PercentExtraSpawnsPerSkillLevel": 0,
+        "RelatedSkill": "Foraging",
+        "UniqueAreaID": "Highway Stump Spawns",
+        "MapName": "Rexstrife20.MineralTownCP_Highway",
+        "MinimumSpawnsPerDay": 3,
+        "MaximumSpawnsPerDay": 5,
+        "IncludeTerrainTypes": [],
+        "ExcludeTerrainTypes": [],
+        "IncludeCoordinates": [
+          "5,40;5,40",
+          "1,40;1,40",
+          "7,43;7,43",
+          "2,43;2,43",
+          "5,45,5,45",
+          "1,37,1,37"
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": 6
+        },
+        "DaysUntilSpawnsExpire": 0
+      }
+    ],
+    "CustomTileIndex": []
+  },
+  "Ore_Spawn_Settings": {
+    "Areas": [],
+    "PercentExtraSpawnsPerMiningLevel": 0,
+    "MiningLevelRequired": {},
+    "StartingSpawnChance": {},
+    "LevelTenSpawnChance": {},
+    "CustomTileIndex": []
+  },
+  "Monster_Spawn_Settings": {
+    "Areas": [
+      {
+        "MonsterTypes": [
+          {
+            "MonsterName": "Rock Crab",
+            "Settings": {
+              "HP": 3,
+              "Damage": 1,
+              "Sprite": "Characters/Monsters/MT.RockCrab",
+              "Loot": [],
+              "EXP": 1
+            }
+          }
+        ],
+        "UniqueAreaID": "Mineral Town Beach Crabs",
+        "MapName": "Rexstrife20.MineralTownCP_MineralBeach",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 3,
+        "IncludeTerrainTypes": [
+          "Diggable",
+          "Dirt"
+        ],
+        "ExcludeTerrainTypes": [
+          "Stone",
+          "Wood"
+        ],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 1800,
+          "EndTime": 2400,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      },
+      {
+        "MonsterTypes": [
+          {
+            "MonsterName": "Rock Crab",
+            "Settings": {
+              "HP": 3,
+              "Damage": 1,
+              "Sprite": "Characters/Monsters/MT.RockCrab",
+              "Loot": [],
+              "EXP": 1
+            }
+          }
+        ],
+        "UniqueAreaID": "Mineral TidePool Crab",
+        "MapName": "Rexstrife20.MineralTownCP_TidePool",
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 4,
+        "IncludeTerrainTypes": [
+          "Diggable",
+          "Dirt"
+        ],
+        "ExcludeTerrainTypes": [
+          "Stone",
+          "Wood"
+        ],
+        "IncludeCoordinates": [],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "High",
+        "SpawnTiming": {
+          "StartTime": 1800,
+          "EndTime": 2400,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "GameStateQueries": [],
+          "CPConditions": {},
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": 1
+      }
+    ],
+    "CustomTileIndex": []
+  },
+  "QuarryTileIndex": [],
+  "File_Conditions": {
+    "FarmTypes": [],
+    "FarmerNames": [],
+    "SaveFileNames": [],
+    "OtherMods": {}
+  }
+}

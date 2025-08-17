@@ -1,0 +1,11 @@
+{
+  "Format": "2.0.0",
+  "Name": "Mineral Town (Custom Companions component)",
+  "Author": "Rexstrife20",
+  "Version": "1.0.7",
+  "Description": "Custom Companions pack for Mineral Town.",
+  "UniqueID": "Rexstrife20.MineralTownCC",
+  "UpdateKeys": [
+    "Nexus:-1"
+  ]
+}
